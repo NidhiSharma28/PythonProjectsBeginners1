@@ -1,6 +1,6 @@
 #Password Generator Project
 import random
-import string
+import string # a library
 letters = list(string.ascii_letters)
 numbers = list(range(0,9)) 
 symbols = ['!', '#', '$', '%', '&', '(', ')', '*', '+']
